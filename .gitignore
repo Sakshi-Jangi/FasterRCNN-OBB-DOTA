@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyTorch Models
+*.pth
+*.pt
+
+# Dataset
+FasterRCNN_Dataset/
+
+# Logs
+loss_log.txt
+
+# Jupyter
+.ipynb_checkpoints/

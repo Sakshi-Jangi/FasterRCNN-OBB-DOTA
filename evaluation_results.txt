@@ -1,0 +1,127 @@
+TP: 41812
+FP: 22089
+FN: 57178
+Precision: 0.6543246584560491
+Recall: 0.4223860996060208
+F1 Score: 0.5133739740071582
+Accuracy: 0.34532825675798445
+
+=====================
+MODEL: /content/drive/MyDrive/frcnn_epoch_41.pth
+CONFIDENCE: 0.3
+IMAGES: 200
+TP: 6412
+FP: 2827
+FN: 7310
+Precision: 0.6940145037341704
+Recall: 0.46727882232910656
+F1 Score: 0.5585122599189931
+Accuracy: 0.3874554353737386
+
+=====================
+MODEL: /content/drive/MyDrive/frcnn_epoch_41.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12664
+FP: 7179
+FN: 16189
+Precision: 0.6382099480925263
+Recall: 0.4389144976258968
+F1 Score: 0.5201248562510268
+Accuracy: 0.35146536412078155
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_52.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12697
+FP: 4640
+FN: 16156
+Precision: 0.7323643075503259
+Recall: 0.4400582261809864
+F1 Score: 0.549772678068846
+Accuracy: 0.3790941390738363
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_64.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12677
+FP: 4923
+FN: 16176
+Precision: 0.720284090909091
+Recall: 0.43936505735972
+F1 Score: 0.5457989796138032
+Accuracy: 0.37532567503552816
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_64.pth
+CONFIDENCE: 0.2
+IMAGES: 456
+TP: 12789
+FP: 6219
+FN: 16064
+Precision: 0.6728219696969697
+Recall: 0.4432468027588119
+F1 Score: 0.534422598775621
+Accuracy: 0.36464986313868614
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_73.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12496
+FP: 4248
+FN: 16357
+Precision: 0.7462971810797898
+Recall: 0.43309187952725886
+F1 Score: 0.5481062350593241
+Accuracy: 0.3775112534364521
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_85.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12842
+FP: 5370
+FN: 16011
+Precision: 0.7051394684823193
+Recall: 0.4450837001351679
+F1 Score: 0.5457133751195156
+Accuracy: 0.3752447184641908
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_95.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12719
+FP: 4223
+FN: 16134
+Precision: 0.7507378113563924
+Recall: 0.44082071188437943
+F1 Score: 0.5554754885904575
+Accuracy: 0.3845386382875801
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_95.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12719
+FP: 4223
+FN: 16134
+Precision: 0.7507378113563924
+Recall: 0.44082071188437943
+F1 Score: 0.5554754885904575
+Accuracy: 0.3845386382875801
+
+=====================
+MODEL: /content/drive/MyDrive/FasterRCNN_OBB_Project/frcnn_epoch_95.pth
+CONFIDENCE: 0.3
+IMAGES: 456
+TP: 12719
+FP: 4223
+FN: 16134
+Precision: 0.7507378113563924
+Recall: 0.44082071188437943
+F1 Score: 0.5554754885904575
+Accuracy: 0.3845386382875801

@@ -1,0 +1,17 @@
+===== PER CLASS DETECTIONS =====
+
+harbor               : 2316
+bridge               : 1692
+ship                 : 1282
+plane                : 895
+small-vehicle        : 862
+large-vehicle        : 594
+swimming-pool        : 142
+tennis-court         : 140
+soccer-ball-field    : 71
+storage-tank         : 62
+ground-track-field   : 45
+roundabout           : 43
+baseball-diamond     : 34
+helicopter           : 34
+basketball-court     : 3
